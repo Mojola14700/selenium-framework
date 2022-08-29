@@ -11,6 +11,6 @@ Feature: Account Management
 
     Examples:
       | Firstname | Lastname | Email                      | Password       | ConfirmPassword |
-      | Joris     | Johnson  | Borisjohnson147@yahoo.com | Borisisnotnice5@ | Borisisnotnice5@  |
+      | Joris     | Johnson  | Borisjohnson144@yahoo.com | Borisisnotnice5@ | Borisisnotnice5@  |
 
 
